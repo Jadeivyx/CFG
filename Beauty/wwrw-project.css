@@ -351,7 +351,7 @@ footer ul {
 }
 
 .footer-copyright .logo {
-  display: flex;
+  display: inherit;
 }
 .footer-copyright nav {
   float: right;
