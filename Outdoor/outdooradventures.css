@@ -33,6 +33,12 @@ text-transform: uppercase;
     padding-right: 100px;
   }
 
+ .angharad {
+    font-size: 14px;
+    color: #342f2f;
+    text-align:center;
+  }
+
 img {
     border: 10px solid #7a9873;
   }
