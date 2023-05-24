@@ -17,8 +17,12 @@
 }
 
 .nav-link {
-color: #ffffff;
+color: #d369ae;
 text-transform: uppercase;
+}
+
+.nav-link:hover {
+  color: #ff0000; 
 }
 
 .container-images {
@@ -29,7 +33,7 @@ text-transform: uppercase;
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
-  border: 1px solid #d369ae;
+  border: 1px solid #514f4f;
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
