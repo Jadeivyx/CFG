@@ -11,6 +11,10 @@
   text-transform: uppercase;
   }
 
+  .nav-link:hover {
+    color: #f56abb; 
+  }
+
 .topstories {
   font-weight: bold;
   padding-bottom: 2%;
