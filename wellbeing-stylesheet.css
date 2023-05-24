@@ -73,12 +73,12 @@ input[type=submit]:hover {
   
 }
 
-.btn {
+.btn-group {
   background-color: #f482d2; 
   color:#fff;
 }
 
-.btn:hover, .btn:focus, .btn.active {background: #f2a1e3;color: #fff;
+.btn-group:hover, .btn:focus, .btn.active {background: #f2a1e3;color: #fff;
 -webkit-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 -moz-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 -ms-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
