@@ -257,11 +257,7 @@ img {
   font-weight: lighter;
 }
 
-  /*==================== 
-  Footer 
-====================== */
-
-/* Main Footer */
+ /* Main Footer */
 footer .main-footer{  padding: 20px 0;  background: #3a3a3a;}
 footer ul{   
   padding-left: 0px;  
@@ -350,4 +346,3 @@ box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 transition: all 250ms ease-in-out 0s;
 
 }
-
