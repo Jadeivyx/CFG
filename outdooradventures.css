@@ -20,7 +20,11 @@
 color: #ffffff;
 text-transform: uppercase;
 }
-  
+
+.nav-link:hover {
+  color: #f56abb; 
+}
+
 .text-block {
     position: absolute;
     text-align: center;
