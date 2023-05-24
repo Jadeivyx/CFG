@@ -21,6 +21,10 @@ body {
 color: #ffffff;
 text-transform: uppercase;
 }
+
+.nav-link:hover {
+  color: #f56abb; 
+}
     .imagetop{
         width: 90%;
       }

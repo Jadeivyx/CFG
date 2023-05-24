@@ -12,6 +12,23 @@ h2 {
   text-align: center;
 }
 
+.nav-item {
+  padding: 0%;
+  color: #ffffff;
+}
+.navbar-toggler {
+  background-color: #d369ae;
+}
+
+.nav-link {
+color: #ffffff;
+text-transform: uppercase;
+}
+
+.nav-link:hover {
+  color: #f56abb; 
+}
+
 img {
   display: block;
   margin-left: auto;

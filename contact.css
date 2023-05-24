@@ -22,7 +22,9 @@ body {
   text-transform: uppercase;
 }
 
- 
+.nav-link:hover {
+  color: #f56abb; 
+}
 
   /* Style inputs */
   input[type=text], select, textarea {

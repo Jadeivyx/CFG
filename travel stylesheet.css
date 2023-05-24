@@ -11,6 +11,10 @@
   text-transform: uppercase;
 }
 
+.nav-link:hover {
+  color: #f56abb; 
+}
+
 .article_hero {
   font-family: yeseva one;
   font-size: 100px;
